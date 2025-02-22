@@ -10,6 +10,13 @@ h1 {
     color: #333;
 }
 
+#downloadButton {
+    cursor:pointer; 
+    margin-left: 10px; 
+    width: 24px; 
+    height: 24px;
+}
+
 #programs {
     max-width: 800px;
     margin: 0 auto;
